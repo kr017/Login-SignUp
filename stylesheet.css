@@ -43,28 +43,13 @@
     margin: 5px;
     padding: 5px;
 }
-#signin{
+.btn{
     padding: 10px 40px;
     text-align: center;
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 20px;
 }
-#btn-signin{
-    padding: 10px 40px;
-    text-align: center;
-    margin: 4px 2px;
-    cursor: pointer;
-    border-radius: 20px;
-}
-#btn-signup{
-    padding: 10px 40px;
-    text-align: center;
-    margin: 4px 2px;
-    cursor: pointer;
-    border-radius: 20px;
-}
-
 .right-panel{
     flex: 1;
     display: flex;
@@ -83,6 +68,7 @@
     width: 50%; 
     background:linear-gradient(to right, #f83600,#f00754);
     justify-content: center;    
+    color:black
 
 } 
 .sliding-panel-right{
